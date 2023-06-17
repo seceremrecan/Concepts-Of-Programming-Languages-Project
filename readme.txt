@@ -1,3 +1,5 @@
-When you run the program, please do not enter a number by leaving a space at first, if you do, the program will terminate.
-When you run the program, please enter only the number, otherwise the program will terminate.
-If the program does not work, compile it again.
+->When you run the program, please do not enter a number by leaving a space at first, if you do, the program will terminate.
+->When you run the program, please enter only the number, otherwise the program will terminate.
+->If the program does not work, compile it again.
+->to run the program go to the dist file
+->After navigating to the dist file, run the following command "java -jar Program.jar"
